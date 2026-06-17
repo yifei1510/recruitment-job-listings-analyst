@@ -8,7 +8,8 @@ The work focused on cleaning job listing records, matching company details, crea
 
 The project is designed as a data analysis portfolio example. It demonstrates practical spreadsheet preparation, company detail verification, SPSS frequency tables, crosstabs, and reporting.
 
-![Project Overview](assets/spss_report/01_project_overview.png)
+<img width="1600" height="900" alt="01_project_overview" src="https://github.com/user-attachments/assets/2c1dad60-b124-4740-8d9a-df77f162694e" />
+
 
 ## Dataset
 
@@ -78,7 +79,8 @@ Key fields used in the analysis:
 
 ### Job Listings by State
 
-![Job Listings by State](assets/spss_report/02_state_frequency.png)
+<img width="1600" height="900" alt="02_state_frequency" src="https://github.com/user-attachments/assets/b6cba8ab-6a99-49da-a636-d15c664bed4e" />
+
 
 This output summarises the distribution of job listing records across Australian states and territories.
 
@@ -96,7 +98,8 @@ This output identifies the highest-volume job categories in the dataset.
 
 ### State by Verification Status Crosstab
 
-![State by Verification Status](assets/spss_report/05_state_verification_crosstab.png)
+<img width="1600" height="900" alt="05_state_verification_crosstab" src="https://github.com/user-attachments/assets/7130a79b-ec9a-468f-b18a-9b991bb5ddef" />
+
 
 This crosstab helps identify where company detail verification coverage is strongest or weakest by state.
 
@@ -104,23 +107,6 @@ This crosstab helps identify where company detail verification coverage is stron
 
 ![Cleaned Report Outputs](assets/spss_report/06_clean_report_outputs.png)
 
-The original SPSS output was cleaned into a more readable report format:
-
-- [Cleaned PDF report](output/clean_spss_report/Reesby_Clean_SPSS_Report.pdf)
-- [Editable HTML report](output/clean_spss_report/Reesby_Clean_SPSS_Report.html)
-
-## Files Included
-
-| File | Description |
-|---|---|
-| `report.pdf` | Original SPSS output report |
-| `Reesby_SPSS_Analysis.sps` | SPSS analysis syntax |
-| `output/spss_ready/Job_Listings_SPSS_Ready.csv` | SPSS-ready cleaned dataset |
-| `output/spss_ready/Import_Job_Listings_SPSS_Ready.sps` | SPSS import syntax |
-| `output/spss_ready/Job_Listings_SPSS_Data_Dictionary.csv` | Data dictionary |
-| `output/clean_spss_report/Reesby_Clean_SPSS_Report.pdf` | Cleaned PDF analysis report |
-| `output/clean_spss_report/Reesby_Clean_SPSS_Report.html` | Editable HTML report |
-| `assets/spss_report/` | README images and analysis visuals |
 
 ## Limitations
 
@@ -129,16 +115,7 @@ The original SPSS output was cleaned into a more readable report format:
 - The analysis is descriptive and focuses on frequencies, crosstabs, verification coverage, and reporting readiness.
 - The project does not use predictive modelling or inferential statistical testing.
 
-## What I Learned
 
-This project strengthened my ability to:
-
-- Prepare spreadsheet data for statistical analysis.
-- Use Excel to clean and match operational records.
-- Use SPSS to generate frequency tables and crosstabs.
-- Create verification status fields for data quality tracking.
-- Convert raw SPSS output into a cleaner PDF and HTML report.
-- Present data quality progress clearly without overstating completion.
 
 ## Summary
 
