@@ -86,13 +86,15 @@ This output summarises the distribution of job listing records across Australian
 
 ### Company Detail Verification Status
 
-![Company Detail Verification Status](assets/spss_report/03_verification_status.png)
+<img width="1600" height="900" alt="03_verification_status" src="https://github.com/user-attachments/assets/537f292e-8488-4ddf-bce3-18d729d9ebe9" />
+
 
 This output shows how many job listing rows have verified company details and how many still require further detail validation.
 
 ### Top Job Categories
 
-![Top Job Categories](assets/spss_report/04_top_categories.png)
+<img width="1600" height="900" alt="04_top_categories" src="https://github.com/user-attachments/assets/76d483f3-3c72-43f9-8a06-13078d808bb7" />
+
 
 This output identifies the highest-volume job categories in the dataset.
 
@@ -105,7 +107,8 @@ This crosstab helps identify where company detail verification coverage is stron
 
 ## Cleaned Report Outputs
 
-![Cleaned Report Outputs](assets/spss_report/06_clean_report_outputs.png)
+<img width="1600" height="900" alt="06_clean_report_outputs" src="https://github.com/user-attachments/assets/2736bca7-0532-49c5-a11c-52d3f6887980" />
+
 
 
 ## Limitations
